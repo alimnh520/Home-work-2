@@ -649,6 +649,10 @@ header .navbar  ul li .ul-1 li .ul-2 li:hover{
     padding-left: 40px;
     border-radius: 10px;
 }
+.section-5 .click-slider > .slider .slider-box:hover{
+    border: 1px solid rgb(66, 66, 194);
+    transition: all 0.3s ease;
+}
 .section-5 .click-slider > .slider .slider-box p{
     text-align: left;
 }
